@@ -51,3 +51,8 @@ adopters:
     url: "https://www.sybit.de/unternehmen/news/referenz-benlink/"
     logo: "./logos/Sybit-Logo.svg"
     content: "With Kyma, we develop flexible SAP CX solutions for our customers. Kyma allows us to extend the CX Suite without touching the standard code."
+  - websiteUrl: "https://www.aarini.eu/"
+    company: "Aarini"
+    url: "https://www.aarini.eu/services-2nd/rapid-application-development"
+    logo: "./logos/Aarini-Logo.svg"
+    content: "Kyma enables us to build serverless and microservices based extensions to SAP S4/HANA and SAP Cloud Solutions for our Customers."
